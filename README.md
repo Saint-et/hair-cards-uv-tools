@@ -9,13 +9,15 @@ The goal is to reduce the amount of repetitive manual work required when cleanin
 ---
 
 ## Features
-
+![Hair Cards Tools Interface](images/interface.png)
 ### Selection
 
 #### Select Quad Islands
 Automatically identifies UV islands made entirely of quad faces.
 
 This is useful for quickly separating clean hair cards from cards that may require additional topology cleanup.
+
+![Select Quads](images/selectquads.png)
 
 ---
 
@@ -42,6 +44,8 @@ Recommended for hair cards with regular quad topology.
 
 This option provides the cleanest result when the topology is suitable.
 
+![Select Quads](images/StraightenCards.png)
+
 #### Force Straighten Cards
 Attempts to straighten more complex or imperfect hair-card UV islands.
 
@@ -60,6 +64,8 @@ The tool:
 This mode is intentionally more permissive.
 
 It is useful when you do not want to manually clean every hair card before straightening it. The result may not always be perfect on complex topology, but regular portions of the card can still be straightened automatically.
+
+![Select Quads](images/ForceStraightenCards.png)
 
 ---
 
@@ -128,11 +134,13 @@ The tools will then be available from the relevant Blender sidebar/panel.
 
 ## Optional Dependency
 
-### QRemeshify
-
-The **Remesh Multiples** feature requires the QRemeshify Blender extension.
-
+### QRemeshify 
+ 
+The **Remesh Multiples** feature requires the QRemeshify Blender extension. 
+ 
 If QRemeshify is not installed, the other tools in this add-on can still be used normally.
+
+For batch remeshing, it is recommended to process around **10 or less hair cards at a time**. Depending on your computer's performance and available resources, you may be able to process more cards simultaneously.
 
 ---
 
@@ -158,11 +166,7 @@ Compatibility may vary between Blender versions, especially for features relying
 
 ## License
 
-Add your preferred license here.
-
-For example, if you choose the MIT License:
-
-`MIT License`
+This project is licensed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
 
 ---
 
