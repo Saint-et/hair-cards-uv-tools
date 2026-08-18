@@ -10,10 +10,7 @@ The goal is to reduce the amount of repetitive manual work required when cleanin
 
 ## Features
 
-<p align="center">
-  <img src="images/interface.png" width="45%" alt="Before">
-  <img src="images/test.gif" width="45%" alt="After">
-</p>
+![Select Quads](images/interface.png)
 
 ### Selection
 
@@ -117,6 +114,10 @@ A possible workflow is:
 8. Use **Match Size** and **Match Location** to organize the final UV layout.
 
 The tools are designed to complement each other rather than enforce a single workflow.
+
+<p align="center">
+  <img src="images/test.gif" width="350" alt="Hair Cards Tools">
+</p>
 
 ---
 
