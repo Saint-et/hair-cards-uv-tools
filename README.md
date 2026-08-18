@@ -11,7 +11,7 @@ The goal is to reduce the amount of repetitive manual work required when cleanin
 ## Features
 
 <p align="center">
-  <img src="images/images/interface.png" width="45%" alt="Before">
+  <img src="images/interface.png" width="45%" alt="Before">
   <img src="images/test.gif" width="45%" alt="After">
 </p>
 
