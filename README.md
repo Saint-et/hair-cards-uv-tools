@@ -9,7 +9,12 @@ The goal is to reduce the amount of repetitive manual work required when cleanin
 ---
 
 ## Features
-![Hair Cards Tools Interface](images/interface.png)
+
+<p align="center">
+  <img src="images/images/interface.png" width="45%" alt="Before">
+  <img src="images/test.gif" width="45%" alt="After">
+</p>
+
 ### Selection
 
 #### Select Quad Islands
