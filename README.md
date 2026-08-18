@@ -12,6 +12,10 @@ The goal is to reduce the amount of repetitive manual work required when cleanin
 
 ![Select Quads](images/interface.png)
 
+<p align="center">
+  <img src="images/test.gif" width="350" alt="Hair Cards Tools">
+</p>
+
 ### Selection
 
 #### Select Quad Islands
@@ -115,9 +119,6 @@ A possible workflow is:
 
 The tools are designed to complement each other rather than enforce a single workflow.
 
-<p align="center">
-  <img src="images/test.gif" width="350" alt="Hair Cards Tools">
-</p>
 
 ---
 
